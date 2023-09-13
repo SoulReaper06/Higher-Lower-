@@ -18,3 +18,9 @@ Experience the excitement of comparing Instagram follower counts with this Pytho
 3. The program will reveal the follower counts and whether you guessed correctly.
 4. Keep playing and challenge your friends to see who can guess the most Instagram follower counts correctly!
 5. Whether you're an Instagram enthusiast or just looking for a fun way to test your knowledge, this Python-based game is the perfect choice. Start playing and see if you can become the ultimate Instagram follower count guru!
+
+
+ Markup : 1. A numbered list
+              1. A nested numbered list
+              2. Which is numbered
+          2. Which is numbered
