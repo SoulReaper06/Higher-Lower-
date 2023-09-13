@@ -13,8 +13,8 @@ Experience the excitement of comparing Instagram follower counts with this Pytho
 * Instructions:
 
 # Run the Python script.
-1 You will be presented with two Instagram accounts. Guess which one has more followers.
-2 Input your choice (1 or 2).
-3 The program will reveal the follower counts and whether you guessed correctly.
-4 Keep playing and challenge your friends to see who can guess the most Instagram follower counts correctly!
-5 Whether you're an Instagram enthusiast or just looking for a fun way to test your knowledge, this Python-based game is the perfect choice. Start playing and see if you can become the ultimate Instagram follower count guru!
+1. You will be presented with two Instagram accounts. Guess which one has more followers.
+2. Input your choice (1 or 2).
+3. The program will reveal the follower counts and whether you guessed correctly.
+4. Keep playing and challenge your friends to see who can guess the most Instagram follower counts correctly!
+5. Whether you're an Instagram enthusiast or just looking for a fun way to test your knowledge, this Python-based game is the perfect choice. Start playing and see if you can become the ultimate Instagram follower count guru!
